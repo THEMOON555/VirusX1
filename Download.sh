@@ -1,5 +1,5 @@
 #!/bin/sh
-#by mr virus spm
+#by 
 #wah ada kang record 
 
 blue='\033[34;1m'
@@ -13,56 +13,56 @@ yellow='\033[33;1m'
 
 clear
 sleep 2
-xdg-open https://youtube.com/channel/UCSJohuQCtqfD2P73Z65g8jg
-echo $red" _     _       _      __     ___ "
-echo $red"| |   (_)_ __ | | __  \ \   / (_)_ __ _   _ ___ "
-echo $red"| |   | | '_ \| |/ /___\ \ / /| | '__| | | / __| "
-echo $white"| |___| | | | |   <_____\ V / | | |  | |_| \__ \ "
-echo $white"|_____|_|_| |_|_|\_\     \_/  |_|_|   \__,_|___/ "
-echo $white"------------------------------------------------- "
+echo     " _     _       _      __     ___ "
+echo     "| |   (_)_ __ | | __  \ \   / (_)_ __ _   _ ___ "
+echo     "| |   | | '_ \| |/ /___\ \ / /| | '__| | | / __| "
+echo       "| |___| | | | |   <_____\ V / | | |  | |_| \__ \ "
+echo       "|_____|_|_| |_|_|\_\     \_/  |_|_|   \__,_|___/ "
+echo       "------------------------------------------------- "
 echo
-    sleep 2
-    echo $cyan":::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
-    echo $cyan"::"$yellow"          AUTHOR"$cyan" :"$yellow" DEMONXX.                          "$cyan"::"
-    echo $cyan"::"$yellow"          TEAM  "$cyan" :"$yellow" Cyber Hunter INDONESIA            "$cyan"::"
-    echo $cyan"::"$yellow"           WA   "$cyan" :"$yellow" 082189061034                      "$cyan"::"
-    echo $cyan":::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+    sleep 2 
+    echo      ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+    echo      "::"               AUTHOR " : DEMONXX.                                         "::"
+    echo      "::"                TEAM  " : Cyber Hunter INDONESIA                           "::"
+    echo      "::"                 WA   " : 082189061034                            "::"
+    echo      ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
     echo
 sleep 1
-echo $purple" GUNAKAN TOOLS INI DENGAN BIJAK"
-echo $cyan"°==============================°"
+echo        " GUNAKAN TOOLS INI DENGAN BIJAK"
+echo      "°==============================°"
 echo
          sleep 1
-         echo $cyan"["$yellow"01"$cyan"]"$purple" LINK VIRUS KE SATU"
-         echo $cyan"["$yellow"02"$cyan"]"$purple" LINK VIRUS KE DUA"
-         echo $cyan"["$yellow"03"$cyan"]"$purple" KELUAR"
+         echo                       [01]" LINK VIRUS KE SATU"
+         echo                       [02]" LINK VIRUS KE DUA"
+         echo                       [03]" KELUAR"
          echo
          sleep 1
-echo $cyan":::::::::::::::::::::::"
-echo $cyan"::"$yellow" MASUKAN PILIHANMU"$cyan" ::"
-echo $cyan":::::::::::::::::::::::"
+echo      ":::::::::::::::::::::::"
+echo      "::"         MASUKAN PILIHANMU" ::"
+echo      ":::::::::::::::::::::::"
 echo
 sleep 1
 read -p "=> " gady
 if [ $gady = 1 ] || [ $gady = 01 ]
 then
     sleep 1
-    echo $red"SEDANG"$yellow" MENUJU"$green" KE"$blue" LINK"
+    echo         "SEDANG MENUJU KE LINK...."
     sleep 3
     sh LiNk1.sh
 fi
 if [ $gady = 2 ] || [ $gady = 02 ]
 then
     sllep 1
-    echo $red"SEDANG"$yellow" MENUJU"$green" KE"$blue" LINK"
+    echo.        "SEDANG MENUJU KE LINK...."
     sleep 3
     sh LiNk2.sh
 fi
 if [ $gady = 3 ] || [ $gady = 03 ]
 then
     sleep 1
-    echo $yellow"TERIMAKASIH TELAH MENGGUNAKAN SCRIPT SAYA"
+    echo         "TERIMAKASIH TELAH MENGGUNAKAN SCRIPT SAYA"
     sleep 1
-    echo $red"Good Byee"
+    echo 
+figlet Good Byee
         exit
 fi
