@@ -22,9 +22,9 @@ echo       "------------------------------------------------- "
 echo
     sleep 2 
     echo      ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
-    echo      "::                   AUTHOR " : DEMONXX.                                          ::"
-    echo      "::                    TEAM  " : Cyber Hunter INDONESIA                            ::"
-    echo      "::                     WA   " : 082189061034                                      ::"
+    echo      "::                   AUTHOR  : DEMONXX.                                          ::"
+    echo      "::                    TEAM   : Cyber Hunter INDONESIA                            ::"
+    echo      "::                     WA    : 082189061034                                      ::"
     echo      ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
     echo
 sleep 1
