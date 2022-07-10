@@ -48,14 +48,14 @@ then
     sleep 1
     echo         "SEDANG MENUJU KE LINK...."
     sleep 3
-    bash LiNk1.sh
+    bash LiNK1.sh
 fi
 if [ $gady = 2 ] || [ $gady = 02 ]
 then
     sllep 1
     echo.        "SEDANG MENUJU KE LINK...."
     sleep 3
-    bash LiNk2.sh
+    bash LiNK2.sh
 fi
 if [ $gady = 3 ] || [ $gady = 03 ]
 then
